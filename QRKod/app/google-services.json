@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572346107980",
+    "project_id": "barkod-ac323",
+    "storage_bucket": "barkod-ac323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572346107980:android:1805f2cd94314aaeff4ce9",
+        "android_client_info": {
+          "package_name": "com.merveakin.mlkitbarkod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572346107980-ig1k2lfo53o3olkfgu5bqgm0h7sqnr01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8HvWAqYh_k2PmSx9cnlZVqzVyGQtTGog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572346107980-ig1k2lfo53o3olkfgu5bqgm0h7sqnr01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
